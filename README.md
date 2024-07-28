@@ -1,2 +1,2 @@
 # Pizzarium
-Crazy super ultra Pizza voting app :)
+Crazy super ultra Pizza order voting app :)
