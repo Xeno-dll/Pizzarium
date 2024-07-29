@@ -9,6 +9,12 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: black;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
 div {
   margin: auto;
   padding: 10px;
