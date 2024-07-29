@@ -8,3 +8,10 @@ h1 {
   font-family: "Verdana", sans-serif;
   text-align: center;
 }
+
+div {
+  text-align: center;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;  
+}
