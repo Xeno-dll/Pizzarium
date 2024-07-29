@@ -21,6 +21,11 @@ p {
   text-align: center;  
 }
 
+.big-a {
+  font-size: 16px;
+  font-family: "Verdana", sans-serif;  
+}
+
 div {
   margin: auto;
   padding: 10px;
@@ -43,4 +48,34 @@ div {
 
 .button:hover {
   background-color: #3e8e41;
+}
+
+.container {
+  margin: auto;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.header-container {
+  align-items: center; 
+  justify-content: center;
+  text-align: center; 
+  margin: auto;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.center-button {
+    display: inline-block; /* Buton gibi görünmesini sağlar */
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff; /* Buton rengi */
+    text-align: center;
+    text-decoration: none; /* Alt çizgi kaldırılır */
+    border-radius: 5px; /* Köşeleri yuvarlatır */
 }
