@@ -10,7 +10,7 @@ h1 {
 }
 
 div {
-  text-align: center;
+  margin: auto;
   padding: 10px;
   border: 2px solid black;
   border-radius: 5px;
